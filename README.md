@@ -15,6 +15,12 @@ run `python manage.py runserver` in `ParliamentElections/`
 
 3. Browse through the project!
 
+
+
+
+
+
+
 ### Notes:
 This system consists of two types of account.
 1. Admin account who has the right to create an election session, verify
