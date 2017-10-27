@@ -6,6 +6,11 @@ This project is a online voting system which serves the full functionality of Pa
 
 Open readme.pdf and Requirements.pdf for more information.
 
+
+
+
+
+
 ### Project Setup
 1. Start Server Through python:
 
